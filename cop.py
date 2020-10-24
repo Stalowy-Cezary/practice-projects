@@ -7,4 +7,4 @@ def probmin(k,n,p): #probability of minimum of k events happening within n range
     return sum([prob(i, n, p) for i in range(k, n + 1)])
 print (prob(14,14,0.75))
     
-    #aaaaaaaaaaaaaaa
+    #aaaaaaaaaaaaaaa222
